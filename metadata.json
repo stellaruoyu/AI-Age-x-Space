@@ -1,0 +1,6 @@
+{
+  "name": "AI Age Dashboard",
+  "description": "An interactive galactic dashboard tracing the evolution of artificial intelligence from Earth to Interstellar mastery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
